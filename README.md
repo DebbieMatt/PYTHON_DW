@@ -1,4 +1,4 @@
-# Data Warehouse com Integração de Dados com Atualização Retroativa  
+# Data Warehouse com Integração de Dados e Atualização Retroativa  
 
 ## Descrição
 
