@@ -5,7 +5,8 @@
 ![GitHub language count](https://img.shields.io/static/v1?label=Python&message=framework&color=blue&style=for-the-badge&logo=Python)
 ![Status](https://img.shields.io/static/v1?label=STATUS&message=ANDAMENTO&color=GREEN&style=for-the-badge)
 
-Um Data Warehouse desenvolvido no Google Colab com integração ao SQLite. Para criar dimensões em Python, foi utilizado técnicas de: Web Scraping do banco de dados do IBGE e Engenharia de Dados, com atualização retroativa.
+Um Data Warehouse desenvolvido no Google Colab com integração ao SQLite. 
+Para criar dimensões em Python, foi utilizado técnicas de: Web Scraping do banco de dados do IBGE e Engenharia de Dados, com atualização retroativa.
 
 ## Executando via Terminal
 
