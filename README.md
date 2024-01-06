@@ -8,25 +8,7 @@
 Um Data Warehouse desenvolvido no Google Colab com integração ao SQLite. 
 Para criar dimensões em Python, foi utilizado técnicas de: Web Scraping do banco de dados do IBGE e Engenharia de Dados, com atualização retroativa.
 
-## Executando via Terminal
-
-Para compilar um programa no LINUX você deve primeiramente abrir um janela de `console/terminal`. 
-
-Se você estiver trabalhando em "modo texto", você já está numa janela de console. Caso esteja em um ambiente gráfico, então deve ativar a janela de console clicando no ícone correspondente.
-
-A seguir, vá ao diretório onde você gravou o seu programa, usando o comando: `cd`.
-
-Supondo que o nome de seu programa seja `teste.c`, para compilá-lo digite:
-
-```
- g++ -o teste teste.c
-```
-
-Caso a compliação tenha sido executada com sucesso, você poderá executar seu programa, digitando:
-
-```
- ./teste
-```
+## Execução
 
 ## 📫 Contribuindo para a manutenção
 
